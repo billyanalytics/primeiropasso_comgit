@@ -33,6 +33,8 @@ codigo: \## teste
 ### Teste
 codigo: \### teste
  > Nessa etapa iremos fazer Negrito, Italico e Tachado
+ 
+
 **Teste** 
 codigo: \**teste\**
 
