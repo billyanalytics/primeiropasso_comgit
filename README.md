@@ -53,6 +53,7 @@ codigo * teste * (sem espaço)
 <img src="https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2016/08/15-Reposito%CC%81rios-no-Github-para-Cientistas-de-Dados.png?w=1200&ssl=1" alt="texto alt" width="300">
 
 > Nessa etapa iremos inserir um link
+
 Codigo coloque o link entre [] cochete ou () parênteses
 
 [https://github.com/billyanalytics]
