@@ -25,6 +25,8 @@ Tecnologia necessária para usar no projeto.
 
   ## 🖋️ Começando
 
+<br>
+
 > Nessa etapa iremos fazer titulo e subtitulos
 
 <br>
@@ -36,7 +38,11 @@ codigo: \## teste
 ### Teste
 codigo: \### teste
 
+<br>
+
 > Nessa etapa iremos fazer Negrito, Italico e Tachado
+
+<br>
 
 **Teste** 
 codigo: \**teste\**
@@ -47,7 +53,11 @@ codigo: \*teste\*
 ~~Teste~~
  codigo: \~~teste\~~ 
 
+<br>
+
 > Nessa etapa iremos inserir uma imagem
+
+<br>
 
 - Exemplo imagem pesquisada no google
  codigo: inicia com ! interrogação  depois [] cochete depois () parênteses
@@ -58,10 +68,16 @@ codigo: \*teste\*
 
 > Nessa etapa iremos inserir um link
 
+<br>
+
 codigo: coloque o link entre [] cochete ou () parênteses
 [https://github.com/billyanalytics]
 
+<br>
+
 > Nessa etapa iremos inserir opções / itens
+
+<br>
 
 - Primeiro item
 - Segundo item
@@ -73,7 +89,11 @@ codigo: coloque o link entre [] cochete ou () parênteses
 
 codigo: Inicia com um traço e coloca a descrição da do item. Para enumerar as opões enumerar colocar um ponto e um espaço
 
+<br>
+
 >  Nessa etapa iremos inserir uma Tabela
+
+<br>
 
 | Nome       | Descrição                |
 |------------|--------------------------|
@@ -83,7 +103,11 @@ codigo: Inicia com um traço e coloca a descrição da do item. Para enumerar as
 
 codigo: cada linha deve começar com |, as colunas seão delimitadas com 2 | uma no inicio e outra no fim e os texto no centro o cabeçario deve ser delimitado com ---- ficando a segunda linha \|---\|
 
+<br>
+
 > Nessa etapa iremos inserir um Script SQL
+
+<br>
 
 ```sql
 SELECT *
@@ -92,14 +116,22 @@ WHERE condição;
 ```
 codigo: O script deve vim entre 3 desse caractere \``` seguido pelo nome da linguagem depois o codigo e finaliar com mais 3 \```
 
+<br>
+
 > Nessa etapa iremos inserir um Script Python
+
+<br>
 
 ```Python
 print("Olá, mundo!")
 ```
 codigo: igual ao anterior 
 
+<br>
+
 > Nessa etapa iremos inserir uma Lista de Tarefas
+
+<br>
 
 - [X] Tarefa 1
 - [ ] Tarefa 2
@@ -107,13 +139,21 @@ codigo: igual ao anterior
 
 codigo: Inicia com um traço abre e fecha colchetes e coloca a descrição da tarefa
 
+<br>
+
 > Nessa etapa iremos inserir um emoji
+
+<br>
 
 :smile:
 
 codigo: Para usar o emoji tem duas formas se souber o nome de mesmo e só colocar o nome entre 2 pontos :nome do emoji: e depois fechar com dois pontos ou ir a um repositório de emojis e copiar e colar no readme. Exemmplo de repositório (https://emojipedia.org/) 
 
+<br>
+
 > Nessa etapa iremos inserir um Alertas
+
+<br>
 
 ## ⚠️ Aviso
 Isso é um aviso importante que requer atenção.
