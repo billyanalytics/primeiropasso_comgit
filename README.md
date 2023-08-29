@@ -164,19 +164,6 @@ codigo: Para usar o emoji tem duas formas se souber o nome de mesmo e só coloca
 > [!WARNING]
 > Conteúdo crucial necessário para o sucesso.
 
-
-
-## ⚠️ Aviso
-Isso é um aviso importante que requer atenção.
-
-## ℹ️ Nota
-Esta é uma informação que os usuários devem considerar.
-
-## 🛑 Importante
-Conteúdo crucial necessário para o sucesso.
-
-codigo: Nesse exemplo fiz um titulo \## coloquei o emoticon nome do tipo de aviso que se assemelha ao alerta e cololquei o alerta em questão
-
 ## 🎁 Expressões de gratidão
 
 * Compartilhe com outras pessoas esse projeto 📢;
