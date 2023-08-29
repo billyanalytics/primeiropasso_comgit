@@ -156,7 +156,14 @@ codigo: Para usar o emoji tem duas formas se souber o nome de mesmo e só coloca
 <br>
 
 > [!NOTE]
-> teste
+> Isso é um aviso importante que requer atenção.
+
+> [!IMPORTANT]
+> Esta é uma informação que os usuários devem considerar.
+
+> [!WARNING]
+> Conteúdo crucial necessário para o sucesso.
+
 
 
 ## ⚠️ Aviso
