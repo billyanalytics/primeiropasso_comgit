@@ -51,7 +51,7 @@ codigo: \**teste\**
 codigo: \*teste\* 
 
 ~~Teste~~
- codigo: \~~teste\~~ 
+ codigo: \~\~teste\~\~ 
 
 <br>
 
