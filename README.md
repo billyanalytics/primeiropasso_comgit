@@ -155,6 +155,10 @@ codigo: Para usar o emoji tem duas formas se souber o nome de mesmo e só coloca
 
 <br>
 
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+
 ## ⚠️ Aviso
 Isso é um aviso importante que requer atenção.
 
