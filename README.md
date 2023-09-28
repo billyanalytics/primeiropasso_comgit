@@ -53,6 +53,10 @@ codigo: \*teste\*
 ~~Teste~~
  codigo: \~\~teste\~\~ 
 
+ <ins>teste</ins>
+ 
+codigo:  \<ins>texto sublinhado\</ins>
+
 <br>
 
 > Nessa etapa iremos inserir uma imagem
