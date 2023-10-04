@@ -7,7 +7,7 @@
 ## Status
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-## Primeiro Projeto
+## Começando com o Git
 Meu Primiero projeto no GitHub um projeto privado para demonstrar formatação de README no GitHub. Dessa forma fixo o conhecimento aprendido alem de deixar esse manual para quem interessar.
 
 ## Sobre
